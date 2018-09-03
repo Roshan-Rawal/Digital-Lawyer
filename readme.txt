@@ -1,5 +1,5 @@
-##Digital Lawyer
-#Digital Lawyer is a online legal advice portal, where one can get free advice on any legal issues.
+## Digital Lawyer
+# Digital Lawyer is a online legal advice portal, where one can get free advice on any legal issues.
 
 Technology used:
 PHP
